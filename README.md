@@ -2,6 +2,14 @@
 
 💎 在 Linux 服务器上使用官方 Obsidian Headless 客户端管理 Obsidian 仓库
 
+[![GitHub](https://img.shields.io/badge/GitHub-开源地址-blue)](https://github.com/huhichao/obsidian-headless-skill)
+
+## 开源地址
+
+**GitHub:** https://github.com/huhichao/obsidian-headless-skill
+
+欢迎提交 Issue 和 PR！
+
 ## 适用平台
 
 - ✅ **Linux** (主要支持平台)
@@ -143,6 +151,7 @@ WantedBy=multi-user.target
 - [Obsidian 官网](https://obsidian.md)
 - [Obsidian Sync](https://obsidian.md/sync)
 - [社区论坛](https://forum.obsidian.md)
+- [GitHub 开源地址](https://github.com/huhichao/obsidian-headless-skill)
 
 ## License
 
